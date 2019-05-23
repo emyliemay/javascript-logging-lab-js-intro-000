@@ -4,5 +4,5 @@ console.log("User error.")
 var word
 word = 'bird'
 console.log(word) // 'bird'
-word = dog 
+word = dog
 console.log(word) // 'dog'
